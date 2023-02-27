@@ -3,6 +3,7 @@ from settings import *
 from debug import debug
 from level import Level
 
+# this is a work in progress
 
 class Game:
 	def __init__(self):
